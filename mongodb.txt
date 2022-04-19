@@ -1,0 +1,1 @@
+MONGODB_URI= mongodb+srv://sirisha:vABnqXqm5J2Z1HjJ@cluster0.3nisr.mongodb.net/sample_analytics.customers?retryWrites=true&w=majority
